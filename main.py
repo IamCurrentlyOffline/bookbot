@@ -8,3 +8,5 @@ def main():
     print(book_text)
     
 main()
+
+# define multiple things to get proper readabiltiy and function
